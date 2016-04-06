@@ -1,0 +1,14 @@
+{
+  "name": "socketmore",
+  "version": "0.0.9",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Onodi <robert.onodi89@gmail.com> (http://robertonodi.me)",
+  "license": "MIT"
+}
